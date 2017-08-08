@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f4b995341e58a3866040cceedad3b5ae4fc7be30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\bf5ec14275338bfc43a386d56d73e42b40b865d9\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c0070ccb838e17adcf5dabeb2c254dcd98cfab05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\d76e66c59f5175db5aa69f1c6b60690153f67675\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a11e75f6bad1356aea3a6aee5332af91d396a471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\4215e2b451a07498761ebf403e5f1ce336a7c476\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc3064c58bc31ac17e6a934126ba33ebfeacb527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\350a61689607b3d7275ab2eba0e1ab92e57980c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39c6d05e4c562ab4e62e11d012fdeac2348c25be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\059fd777be8fbcdefbf7a7793e527171162b9bb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4119f82479bfe11764b63d3bf6ae3c22553718a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\c7ea7bf03f96b41988944ad19c34de9f321e1ee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd3099480c61a75dba7ade34537f2f777fedc4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f4f10350c4b9b0d73c9c031efed6c783f0b779d">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d8b298112d855c3110dd71069e0fb53c241c72d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\07427eaf48d518e5e1cbd79818323d763925aeff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_729061a4d4f951665611a90c1daad4e23e60c6e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\bf5ec14275338bfc43a386d56d73e42b40b865d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5bef4d7bac2a5df1b1e37f65394fd98fe38f63e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\ba66605fece81a314fe89039878a9ccba1e98499\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0b786324f42ffd7684658c97e9d8b3768b7085da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_c9db4bc1c73a3f389abd1ee08889fd327aba9e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_111989601e0ed514b2ff23ae3a44512feaee20a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\4215e2b451a07498761ebf403e5f1ce336a7c476\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c76f66d5f2f564c309fc271c4b0faabc923fe716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_8992b073abd76527cadeb1e05e850470276289cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_747a57bd9ca3bdc117f91d83665b959171136a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\350a61689607b3d7275ab2eba0e1ab92e57980c1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_696acff976074a8e372c9a8e6b0e76a66cf1500f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\ba66605fece81a314fe89039878a9ccba1e98499\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9afa3e48abad234c00fbe2fc6986242b58296550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\07427eaf48d518e5e1cbd79818323d763925aeff\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_36a0fb16ae240021fe5242fb9a2749fb3da8c13b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\17682\.android\build-cache\32c37eab11dca60644062befcbd4127d72fb3974\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\17682\AndroidStudioProjects\Portable_Weather_Station\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d54ae567f816661eec96e23392ab0197687fdf22\classes.dex" />
+    </item>
+
+</items>
