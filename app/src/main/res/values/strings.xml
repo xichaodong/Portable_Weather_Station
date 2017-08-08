@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Portable_Weather_Station</string>
+    <string name="button_name">Create_Database</string>
+</resources>

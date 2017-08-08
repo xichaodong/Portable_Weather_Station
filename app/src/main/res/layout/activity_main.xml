@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/dial"
+        android:layout_width="1080dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/dial"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="178dp" />
+
+    <TextView
+        android:id="@+id/pm10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="98dp"
+        android:text="84"
+        android:gravity="center"
+
+        android:layout_alignBottom="@+id/dial"
+        android:layout_marginBottom="11dp" />
+
+    <TextView
+        android:id="@+id/pm2_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:gravity="center"
+        android:text="47"
+        android:layout_alignBottom="@+id/pm10"
+        android:layout_toEndOf="@+id/pm10" />
+
+    <TextView
+        android:id="@+id/co"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="2.9"
+        android:layout_marginStart="40dp"
+        android:layout_alignBottom="@+id/pm2_5"
+        android:layout_toEndOf="@+id/pm2_5" />
+
+    <TextView
+        android:id="@+id/so2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="57"
+        android:layout_marginStart="40dp"
+        android:layout_alignBaseline="@+id/no2"
+        android:layout_alignBottom="@+id/no2"
+        android:layout_toEndOf="@+id/no2" />
+
+    <TextView
+        android:id="@+id/no2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="58"
+        android:layout_marginStart="42dp"
+        android:layout_alignBaseline="@+id/co"
+        android:layout_alignBottom="@+id/co"
+        android:layout_toEndOf="@+id/co" />
+
+    <TextView
+        android:id="@+id/aqi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="100"
+        android:textSize="30dp"
+        android:textColor="#ffe100"
+        android:layout_above="@+id/pm2_5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp" />
+
+    <TextView
+        android:id="@+id/aqi_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/pm2_5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:textColor="#ffe100"
+        android:text="良" />
+
+    <ImageView
+        android:id="@+id/needle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/needle"
+        android:scaleType="fitXY"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="268dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
